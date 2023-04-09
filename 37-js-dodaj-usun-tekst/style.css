@@ -1,0 +1,24 @@
+.background {
+  background-color: azure;
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: left;
+  width: fit-content;
+}
+
+#header {
+  color: red;
+}
+
+button {
+  color: blueviolet;
+}
+
+#dodaj {
+  color: blue;
+}
+
+#usun {
+  color: brown;
+}
